@@ -101,4 +101,5 @@ npm install
 npm run dev
 ```
 
-farellkurniawan@gmail.com
+### Contact
+- farellkurniawan@gmail.com
