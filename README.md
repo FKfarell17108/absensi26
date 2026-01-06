@@ -70,3 +70,35 @@ Semua pengguna login melalui satu halaman autentikasi, namun akses dashboard dit
 - phpMyAdmin (GUI)
 
 ---
+
+## ⚙️ Instalasi & Setup
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/FKfarell171008/absensi26.git
+```
+
+### 2. Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+#### Buat file .env:
+```bash
+PORT=5000
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=absensi_db
+```
+
+### 3. Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+farellkurniawan@gmail.com
